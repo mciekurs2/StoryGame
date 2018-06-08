@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SpaceAdventure</string>
+
+    <!--Login/Register screen-->
+    <string name="hint_email">email@example.com</string>
+    <string name="hint_password">password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="text_registerClick">Don\'t have account? Click here</string>
+    <string name="text_loginClick">Already have account? Click here</string>
+
+    <!--Main screen-->
+    <string name="menu_logout">Logout</string>
+
+    <!--StoryActivity-->
+    <string name="text_exit">Exit</string>
+    <string name="text_next">Next</string>
+    <string name="text_finish">Finish</string>
+
+    <!--SingleLayout-->
+    <string name="text_continue">Continue</string>
+    <string name="text_reset">Reset</string>
+
+    <!--SharedPref-->
+    <string name="pref">0</string>
+
+
+
+</resources>

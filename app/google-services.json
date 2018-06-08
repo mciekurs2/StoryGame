@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "402907359662",
+    "firebase_url": "https://spaceadventure-be182.firebaseio.com",
+    "project_id": "spaceadventure-be182",
+    "storage_bucket": "spaceadventure-be182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402907359662:android:051cca4691547158",
+        "android_client_info": {
+          "package_name": "com.kristine.spaceadventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402907359662-fmap2uas08p9no0dno0j5obhgjh8ei44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kristine.spaceadventure",
+            "certificate_hash": "bfa2907ec7fa4c813086febed00f267fccfd2a95"
+          }
+        },
+        {
+          "client_id": "402907359662-b5tlooevbinmvfi1pmcc6i9ek3srs709.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kristine.spaceadventure",
+            "certificate_hash": "434a68b8893cd689220646707cb726d8fb30728a"
+          }
+        },
+        {
+          "client_id": "402907359662-nfrjfps9gjbdtvfqo18ig5eo9k9o8fc3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "402907359662-nfrjfps9gjbdtvfqo18ig5eo9k9o8fc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRze0jwi4tLMg6Jy-Idsjt1C_wnQ-HIMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402907359662-nfrjfps9gjbdtvfqo18ig5eo9k9o8fc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
